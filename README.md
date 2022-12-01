@@ -20,10 +20,8 @@ In order to view this project,
 <ol>
 
 ## References
-<ol>
-<li> [React Official Documentation](https://reactjs.org/) </li>
-<li> [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)</li>
-<li> [React Hooks - useState and useEffect](https://www.javatpoint.com/react-hooks) </li>
-</ol>
+1. [React Official Documentation](https://reactjs.org/) 
+2. [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+3. [React Hooks - useState and useEffect](https://www.javatpoint.com/react-hooks)
 
 
