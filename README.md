@@ -2,9 +2,9 @@
 
 ## Introduction to ReactJS 
 
-This is a frontend application for a User to search for his favourite movies and series.
+This is a frontend application for a User to search for his favourite movies and series in the IMDb database
 <br>
-The movies are obtained from the [OMDB API website](https://www.omdbapi.com/apikey.aspx) which has API for all the movies and series that have been publicly released. 
+The movies are obtained from the [OMDB API website](https://www.omdbapi.com/apikey.aspx) which has the information about all the movies and series that have been publicly released. 
 
 
 ![image](https://user-images.githubusercontent.com/93826081/205057265-b0cae13b-c890-488d-8c22-32f6d42dc531.png)
@@ -18,3 +18,12 @@ In order to view this project,
 <li> Install the required npm packages using "npm install" on your command line interface </li> 
 <li> Run "npm start" to start your application and enjoy your search </li> 
 <ol>
+
+## References
+<ol>
+<li> [React Official Documentation](https://reactjs.org/) </li>
+<li> [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)</li>
+<li> [React Hooks - useState and useEffect](https://www.javatpoint.com/react-hooks) </li>
+</ol>
+
+
